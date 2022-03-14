@@ -36,7 +36,7 @@ namespace Tarea2.Peliculas
                 Console.WriteLine("En el estante se encuentran las siguientes peliculas: ");
                 foreach (Pelicula p in peliculas)
                 {
-                    Console.WriteLine(p.getNombrePelicula);
+                    Console.WriteLine(p.nombre_pelicula);
                 }
             }
             

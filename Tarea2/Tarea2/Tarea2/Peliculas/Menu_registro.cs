@@ -42,7 +42,7 @@ namespace Tarea2.Peliculas
                 }
                 if (opcion == 3)
                 {
-                    registro.verTodasLasPeliculas();
+                    verTodasLasPeliculas();
                 }
                 if (opcion == 4)
                 {
@@ -156,6 +156,18 @@ namespace Tarea2.Peliculas
         {
             Pelicula pelicula = pedirPelicula();
             registro.agregarPelicula(pelicula);
+        }
+
+
+        public void verTodasLasPeliculas()
+        {
+            foreach (Estante estante in registro.libreria.estantes)
+            {
+                foreach (Pelicula pelicula in estante.peliculas)
+                {
+                    pelicula.toString();
+                }
+            }
         }
 
     }
