@@ -148,7 +148,7 @@ namespace Tarea2.Peliculas
         public void verPeliculasEstante()
         {
             Estante estante = pedirEstante();
-            estante.toString();
+            estante.informacionEstante();
 
         }
 
@@ -165,7 +165,7 @@ namespace Tarea2.Peliculas
             {
                 foreach (Pelicula pelicula in estante.peliculas)
                 {
-                    pelicula.toString();
+                    Console.WriteLine(pelicula.toString());
                 }
             }
         }

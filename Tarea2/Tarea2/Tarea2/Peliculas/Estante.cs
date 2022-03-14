@@ -24,7 +24,7 @@ namespace Tarea2.Peliculas
         }
 
 
-        public void toString()
+        public void informacionEstante()
         {
             Console.WriteLine("ESTANTE DE GENERO "+genero);
             if (peliculas.Count == 0)

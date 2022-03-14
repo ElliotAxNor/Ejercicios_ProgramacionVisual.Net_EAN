@@ -36,7 +36,7 @@ namespace Tarea2.Peliculas
 
         public void verEstante(Estante estante)
         {
-            estante.toString();
+            estante.informacionEstante();
         }
 
         public void buscarPelicula(String nombre)
@@ -57,7 +57,7 @@ namespace Tarea2.Peliculas
             if (pelicula != null)
             {
                 Console.WriteLine("Si se encontro");
-                pelicula.toString();
+                Console.WriteLine(pelicula.toString());
             }
             else
             {

@@ -27,9 +27,9 @@ namespace Tarea2.Peliculas
             return genero;
         }
 
-        public void toString()
+        public String toString()
         {
-            Console.WriteLine("El nombre de la pelicula es "+nombre_pelicula+" y pertenece al estante de genero "+genero);
+            return "El nombre de la pelicula es " + nombre_pelicula + " y pertenece al estante de genero " + genero;
         }
     }
 }
