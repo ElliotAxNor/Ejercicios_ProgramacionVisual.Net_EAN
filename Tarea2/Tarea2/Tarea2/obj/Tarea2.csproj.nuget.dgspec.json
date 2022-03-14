@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ellio\\OneDrive\\Documents\\UAZ Elliot Axel Noriega\\Cuarto semestre\\Programacion Visual .NET\\Repositorio_ejercicios\\Tarea2\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\ellio\\OneDrive\\Documents\\UAZ Elliot Axel Noriega\\Cuarto semestre\\Programacion Visual .NET\\Repositorio_ejercicios\\Tarea2\\Tarea2\\Tarea2\\Tarea2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ellio\\OneDrive\\Documents\\UAZ Elliot Axel Noriega\\Cuarto semestre\\Programacion Visual .NET\\Repositorio_ejercicios\\Tarea2\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\ellio\\OneDrive\\Documents\\UAZ Elliot Axel Noriega\\Cuarto semestre\\Programacion Visual .NET\\Repositorio_ejercicios\\Tarea2\\Tarea2\\Tarea2\\Tarea2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ellio\\OneDrive\\Documents\\UAZ Elliot Axel Noriega\\Cuarto semestre\\Programacion Visual .NET\\Repositorio_ejercicios\\Tarea2\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\ellio\\OneDrive\\Documents\\UAZ Elliot Axel Noriega\\Cuarto semestre\\Programacion Visual .NET\\Repositorio_ejercicios\\Tarea2\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\ellio\\OneDrive\\Documents\\UAZ Elliot Axel Noriega\\Cuarto semestre\\Programacion Visual .NET\\Repositorio_ejercicios\\Tarea2\\Tarea2\\Tarea2\\Tarea2.csproj",
+        "projectName": "Tarea2",
+        "projectPath": "C:\\Users\\ellio\\OneDrive\\Documents\\UAZ Elliot Axel Noriega\\Cuarto semestre\\Programacion Visual .NET\\Repositorio_ejercicios\\Tarea2\\Tarea2\\Tarea2\\Tarea2.csproj",
         "packagesPath": "C:\\Users\\ellio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ellio\\OneDrive\\Documents\\UAZ Elliot Axel Noriega\\Cuarto semestre\\Programacion Visual .NET\\Repositorio_ejercicios\\Tarea2\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\ellio\\OneDrive\\Documents\\UAZ Elliot Axel Noriega\\Cuarto semestre\\Programacion Visual .NET\\Repositorio_ejercicios\\Tarea2\\Tarea2\\Tarea2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ellio\\AppData\\Roaming\\NuGet\\NuGet.Config",
